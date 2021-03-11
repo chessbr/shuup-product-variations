@@ -39,7 +39,7 @@ importlib-metadata==3.1.0  # via markdown, flake8, keyring, pluggy, pytest
 isort==4.3.21
 itypes==1.2.0             # via coreapi
 jdcal==1.4.1              # via openpyxl
-jinja2==2.8.1             # via coreschema, django-jinja, shuup
+jinja2==2.10.1             # via coreschema, django-jinja, shuup
 jsonfield==2.1.1          # via shuup
 keyring==21.5.0           # via shuup
 keyrings.alt==4.0.1       # via shuup
