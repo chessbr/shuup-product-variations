@@ -75,7 +75,7 @@ toml==0.10.2              # via shuup
 unicodecsv==0.14.1        # via shuup
 unidecode==1.1.1          # via django-filer
 uritemplate==3.0.1        # via coreapi
-urllib3==1.26.2           # via requests
+urllib3==1.26.4           # via requests
 wcwidth==0.2.5            # via pytest
 webencodings==0.5.1       # via bleach
 xlrd==1.2.0               # via shuup
