@@ -28,7 +28,7 @@ django-registration-redux==2.7  # via shuup
 django-rest-swagger==2.2.0  # via shuup-api
 django-reversion==3.0.5   # via shuup
 django-timezone-field==3.1  # via shuup
-djangorestframework==3.11  # via django-parler-rest, django-rest-swagger, shuup, shuup-api
+djangorestframework==3.11.2  # via django-parler-rest, django-rest-swagger, shuup, shuup-api
 easy-thumbnails==2.7.1    # via django-filer
 et-xmlfile==1.0.1         # via openpyxl
 factory-boy==2.7.0        # via shuup
